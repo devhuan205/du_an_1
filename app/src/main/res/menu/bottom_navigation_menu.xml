@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/icon_home"
+        android:title="Trang chủ" />
+
+    <item
+        android:id="@+id/giohang"
+        android:icon="@drawable/addshop"
+        android:title="Thêm vào cửa hàng" />
+
+    <item
+        android:id="@+id/thongbao"
+        android:icon="@drawable/notifications"
+        android:title="Thông Báo" />
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/person"
+        android:title="Tài khoản" />
+</menu>
